@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhagabat Maity 👋</h1>
-<h3 align="center">Senior DevOps Engineer & DevOps Architect | 16+ Years Experience | London, UK</h3>
+<h3 align="center">Senior DevOps Engineer | DevOps Architect | SRE | 16+ Years Experience | London, UK</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bhagabat-maity-a71aa113">
