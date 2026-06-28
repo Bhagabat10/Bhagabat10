@@ -85,13 +85,13 @@ Senior DevOps Engineer and Architect with **16+ years of experience** delivering
 
 ## 💼 Experience Highlights
 
-### 🏛️ TCS → Livestock Information | Senior DevOps Engineer | London *(Mar 2024 – Present)*
+### 🏛️ TCS → Livestock Information | Senior DevOps Engineer | London *(Mar 2025 – Present)*
 - Led CI/CD modernisation using **Azure DevOps YAML** and **GitHub Actions**, cutting deployment time by **60%**
 - Designed scalable cloud infrastructure with **Terraform** across all Azure environments
 - Embedded **DevSecOps** (SAST, DAST, SCA via SonarQube), boosting vulnerability detection by **60%**
 - Implemented end-to-end **Azure Monitor** observability across regulated production environments
 
-### 🏦 TCS → Major UK Bank | DevOps Engineer | London *(Sep 2022 – Mar 2024)*
+### 🏦 TCS → Major UK Bank | DevOps Engineer | London *(Sep 2022 – Mar 2025)*
 - Architected automated **CI/CD pipelines** (Azure DevOps + AKS), increasing deployment frequency by **95%**
 - Deployed containerised APIs to **OpenShift** using **Helm Charts** with **Dynatrace** real-time monitoring
 - Automated restart workflows for **26 services across 32 Linux servers**, saving £20k/year
